@@ -1,0 +1,786 @@
+[
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10000",
+    "firstName": "Charvi",
+    "lastName": "Shetty ",
+    "dob": "1990-11-23T23:04:12.000Z",
+    "heightInInches": 63,
+    "ethnicity": "Asian",
+    "gender": "Female",
+    "_u": "f07581e8931d173e2d7264ac7422d4db",
+    "deviceIds": ["94450001"],
+    "doctorPui": "spyrt_p10102acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0964b525196cf8599bf",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10102acc",
+      "firstName": "John",
+      "lastName": "Dolittle",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-05-08T07:43:43.000Z",
+      "updatedOn": "2020-05-08T07:43:43.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ]
+    },
+    "email": "charvi@aluna.io",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "asthmaControl",
+        "value": "good",
+        "reportedOn": "2021-12-20T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "fevBaseLine",
+        "value": "89%",
+        "reportedOn": "2021-12-20T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "lastUseInDays",
+        "value": "Today",
+        "reportedOn": "2021-12-21T05:17:59.324Z",
+        "tags": []
+      }
+    ],
+    "phone": "(415) 320-0690",
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10018",
+    "firstName": "ACAAI",
+    "lastName": "Hi ",
+    "dob": "1974-09-05T05:00:00.000Z",
+    "heightInInches": 63,
+    "ethnicity": "Asian",
+    "gender": "Female",
+    "_u": "3f87cec26df819dcd70074395b9603d0",
+    "deviceIds": ["94450052"],
+    "doctorPui": "spyrt_p10102acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0964b525196cf8599bf",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10102acc",
+      "firstName": "John",
+      "lastName": "Dolittle",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-05-08T07:43:43.000Z",
+      "updatedOn": "2020-05-08T07:43:43.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ]
+    },
+    "email": "charvi@aluna.io",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "asthmaControl",
+        "value": "good",
+        "reportedOn": "2021-12-20T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "fevBaseLine",
+        "value": "88%",
+        "reportedOn": "2020-01-02T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "lastUseInDays",
+        "value": "Inactive",
+        "reportedOn": "2021-11-06T18:56:59.525Z",
+        "tags": []
+      }
+    ],
+    "phone": "(415) 320-0690",
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10154",
+    "firstName": "AlunaTest2020",
+    "lastName": "Aluna",
+    "dob": "2010-04-03T19:55:48.000Z",
+    "heightInInches": 60,
+    "ethnicity": "Asian",
+    "gender": "Female",
+    "_u": "e2c4909f21a157ccfaafb7a2fcf4eadb",
+    "deviceIds": [],
+    "doctorPui": "spyrt_p10258acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0644b525196cf857b25",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10258acc",
+      "firstName": "Leonard",
+      "lastName": "McCoy",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10258"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-06-02T04:41:09.000Z",
+      "updatedOn": "2020-06-02T04:41:09.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10258"
+        }
+      ]
+    },
+    "email": "alunatest2020@gmail.com",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "asthmaControl",
+        "value": "poor",
+        "reportedOn": "2021-12-20T16:00:00.000Z",
+        "tags": []
+      }
+    ],
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10532",
+    "firstName": "Emily 2",
+    "lastName": "Emily ",
+    "dob": "1968-11-30T08:00:00.000Z",
+    "heightInInches": 65,
+    "ethnicity": "Asian",
+    "gender": "Female",
+    "_u": "c92de7d52cdf43ab6b91c85bdf3210a4",
+    "deviceIds": [],
+    "doctorPui": "spyrt_p10102acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0964b525196cf8599bf",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10102acc",
+      "firstName": "John",
+      "lastName": "Dolittle",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-05-08T07:43:43.000Z",
+      "updatedOn": "2020-05-08T07:43:43.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ]
+    },
+    "email": "emily+2@aluna.io",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "asthmaControl",
+        "value": "veryPoor",
+        "reportedOn": "2021-12-20T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "fevBaseLine",
+        "value": "82%",
+        "reportedOn": "2021-04-30T15:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "lastUseInDays",
+        "value": "Inactive",
+        "reportedOn": "2021-07-02T18:28:20.944Z",
+        "tags": []
+      }
+    ],
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10628",
+    "firstName": "Purple",
+    "lastName": "",
+    "dob": "1995-01-28T05:00:00.000Z",
+    "heightInInches": 60,
+    "ethnicity": "Mixed Or Other",
+    "gender": "Female",
+    "_u": "29f837df466dac6bc57424df4d4b2c07",
+    "deviceIds": [],
+    "doctorPui": "spyrt_p10102acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0964b525196cf8599bf",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10102acc",
+      "firstName": "John",
+      "lastName": "Dolittle",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-05-08T07:43:43.000Z",
+      "updatedOn": "2020-05-08T07:43:43.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ]
+    },
+    "email": "melissa+5@aluna.io",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "lastUseInDays",
+        "value": "Inactive",
+        "reportedOn": "2021-03-19T14:35:46.624Z",
+        "tags": []
+      }
+    ],
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10687",
+    "firstName": "Marie Antoinette",
+    "lastName": "",
+    "dob": "1981-09-12T07:00:00.000Z",
+    "heightInInches": 68,
+    "ethnicity": "Mixed Or Other",
+    "gender": "Female",
+    "_u": "ceb59d76d5ab754d40b17d09bb3d6601",
+    "deviceIds": [],
+    "doctorPui": "spyrt_p10102acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0964b525196cf8599bf",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10102acc",
+      "firstName": "John",
+      "lastName": "Dolittle",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-05-08T07:43:43.000Z",
+      "updatedOn": "2020-05-08T07:43:43.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ]
+    },
+    "email": "tester327@aluna.io",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "asthmaControl",
+        "value": "veryPoor",
+        "reportedOn": "2021-12-20T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "fevBaseLine",
+        "value": "108%",
+        "reportedOn": "2021-03-08T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "lastUseInDays",
+        "value": "Inactive",
+        "reportedOn": "2021-03-09T05:05:16.120Z",
+        "tags": []
+      }
+    ],
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10692",
+    "firstName": "Tom Sawyer",
+    "lastName": "",
+    "dob": "2008-05-16T07:00:00.000Z",
+    "heightInInches": 69,
+    "ethnicity": "Caucasian",
+    "gender": "Male",
+    "_u": "07bceba0e1d3c46819b3355c43099458",
+    "deviceIds": [],
+    "doctorPui": "spyrt_p10102acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0964b525196cf8599bf",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10102acc",
+      "firstName": "John",
+      "lastName": "Dolittle",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-05-08T07:43:43.000Z",
+      "updatedOn": "2020-05-08T07:43:43.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ]
+    },
+    "email": "tester329@aluna.io",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "fevBaseLine",
+        "value": "95%",
+        "reportedOn": "2021-03-06T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "lastUseInDays",
+        "value": "Inactive",
+        "reportedOn": "2021-03-06T08:02:07.825Z",
+        "tags": []
+      }
+    ],
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10701",
+    "firstName": "Djin",
+    "lastName": "Djarin",
+    "dob": "1968-12-01T02:32:36.000Z",
+    "heightInInches": 65,
+    "ethnicity": "Asian",
+    "gender": "Female",
+    "_u": "2c5a1940a2415cb214d79b13825aa12d",
+    "deviceIds": [],
+    "doctorPui": "spyrt_p10102acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0964b525196cf8599bf",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10102acc",
+      "firstName": "John",
+      "lastName": "Dolittle",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-05-08T07:43:43.000Z",
+      "updatedOn": "2020-05-08T07:43:43.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ]
+    },
+    "email": "emily+13@aluna.io",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "lastUseInDays",
+        "value": "Inactive",
+        "reportedOn": "2021-03-08T05:24:57.604Z",
+        "tags": []
+      }
+    ],
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "_type": "ViewPatientDto",
+    "pui": "spyrt_p10706",
+    "firstName": "Konami Barusnio",
+    "lastName": "",
+    "dob": "1965-08-08T07:00:00.000Z",
+    "heightInInches": 69,
+    "ethnicity": "Mixed Or Other",
+    "gender": "Male",
+    "_u": "7648649a3090089397799a3b3d52c8c5",
+    "deviceIds": [],
+    "doctorPui": "spyrt_p10102acc",
+    "doctorDto": {
+      "_type": "ViewHealthWorkerDto",
+      "_id": "613ef0964b525196cf8599bf",
+      "assignedRoleCode": "armada.organization.doctor",
+      "pui": "spyrt_p10102acc",
+      "firstName": "John",
+      "lastName": "Dolittle",
+      "healthWorkerTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ],
+      "schemaVersion": 1,
+      "createdOn": "2020-05-08T07:43:43.000Z",
+      "updatedOn": "2020-05-08T07:43:43.000Z",
+      "userTags": [
+        {
+          "key": "migratedOn",
+          "value": "2021-12-21T18:00:31.989Z"
+        },
+        {
+          "key": "exporterVersion",
+          "value": "2"
+        },
+        {
+          "key": "_oldAccountId",
+          "value": "10102"
+        },
+        {
+          "key": "_oldPatientIds",
+          "value": "10729"
+        }
+      ]
+    },
+    "email": "tester357@aluna.io",
+    "scalarReports": [
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "asthmaControl",
+        "value": "poor",
+        "reportedOn": "2021-12-20T16:00:00.000Z",
+        "tags": []
+      },
+      {
+        "_type": "ViewScalarReportDto",
+        "name": "lastUseInDays",
+        "value": "Inactive",
+        "reportedOn": "2021-03-15T19:56:15.223Z",
+        "tags": []
+      }
+    ],
+    "patientTags": [
+      {
+        "key": "migratedOn",
+        "value": "2021-12-21T18:00:31.989Z"
+      },
+      {
+        "key": "exporterVersion",
+        "value": "2"
+      }
+    ]
+  }
+]

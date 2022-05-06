@@ -1,0 +1,22 @@
+{
+  "testFiles": ["**/*.spec.tsx", "**/*.spec.ts", "**/*.spec.js"],
+  "ignoreTestFiles": [
+    "**/examples/*.spec.js",
+    "**/integration/dashboard/billing.spec.js",
+    "**/integration/dashboard/provider.spec.js",
+    "**/integration/dashboard/nurse.spec.js",
+    "**/integration/dashboard/technician.spec.js"
+  ],
+  "watchForFileChanges": true,
+  "baseUrl": "http://localhost:3000",
+  "chromeWebSecurity": false,
+  "projectId": "nprm38",
+  "video": false,
+  "cypress-watch-and-reload": {
+    "watch": ["pages/**"]
+  },
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "defaultCommandTimeout": 15000,
+  "nodeVersion": "system"
+}

@@ -1,0 +1,33 @@
+{
+  "groupId": "metrics",
+  "groupName": "Metrics",
+  "groupElements": [
+    {
+      "axes": [],
+      "elementName": "Baseline",
+      "elementDescription": "The percentile 70 of all the good readings from all the users in the last 60 days.",
+      "elementSymbolChar": "👁",
+      "elementSymbolSvgPath": "M15 12c0 1.654-1.346 3-3 3s-3-1.346-3-3 1.346-3 3-3 3 1.346 3 3zm9-.449s-4.252 8.449-11.985 8.449c-7.18 0-12.015-8.449-12.015-8.449s4.446-7.551 12.015-7.551c7.694 0 11.985 7.551 11.985 7.551zm-7 .449c0-2.757-2.243-5-5-5s-5 2.243-5 5 2.243 5 5 5 5-2.243 5-5z"
+    },
+    {
+      "axes": ["yFev1"],
+      "elementName": "FEV1",
+      "elementDescription": "The amount of air exhaled measured during the first second.",
+      "elementSymbolChar": "💨",
+      "elementSymbolSvgPath": "M11 10h-11v-2h11c.552 0 1-.448 1-1s-.448-1-1-1c-.403 0-.747.242-.905.587l-1.749-.956c.499-.965 1.494-1.631 2.654-1.631 3.971 0 3.969 6 0 6zm7 7c0-1.656-1.344-3-3-3h-15v2h15c.552 0 1 .448 1 1s-.448 1-1 1c-.403 0-.747-.242-.905-.587l-1.749.956c.499.965 1.494 1.631 2.654 1.631 1.656 0 3-1.344 3-3zm1.014-7.655c.082-.753.712-1.345 1.486-1.345.827 0 1.5.673 1.5 1.5s-.673 1.5-1.5 1.5h-20.5v2h20.5c1.932 0 3.5-1.568 3.5-3.5s-1.568-3.5-3.5-3.5c-1.624 0-2.977 1.116-3.372 2.617l1.886.728z"
+    },
+    {
+      "axes": ["yFev1Other"],
+      "elementName": "FEV1 Others",
+      "elementDescription": "Other FEV1 readings of the same session with a smaller FEV1.",
+      "elementSymbolChar": "💨",
+      "elementSymbolSvgPath": "M11 10h-11v-2h11c.552 0 1-.448 1-1s-.448-1-1-1c-.403 0-.747.242-.905.587l-1.749-.956c.499-.965 1.494-1.631 2.654-1.631 3.971 0 3.969 6 0 6zm7 7c0-1.656-1.344-3-3-3h-15v2h15c.552 0 1 .448 1 1s-.448 1-1 1c-.403 0-.747-.242-.905-.587l-1.749.956c.499.965 1.494 1.631 2.654 1.631 1.656 0 3-1.344 3-3zm1.014-7.655c.082-.753.712-1.345 1.486-1.345.827 0 1.5.673 1.5 1.5s-.673 1.5-1.5 1.5h-20.5v2h20.5c1.932 0 3.5-1.568 3.5-3.5s-1.568-3.5-3.5-3.5c-1.624 0-2.977 1.116-3.372 2.617l1.886.728z"
+    },
+    {
+      "axes": ["yBadReadings"],
+      "elementName": "Bad Readings",
+      "elementDescription": "Bad Readings.",
+      "elementSymbolChar": "🚫"
+    }
+  ]
+}

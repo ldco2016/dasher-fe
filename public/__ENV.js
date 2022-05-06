@@ -1,0 +1,1 @@
+window.__ENV = {"REACT_APP_PUBLIC_ALUNA_API":"https://qa-armada.alunacare.com/api/v2","REACT_APP_SUPPORT_EMAIL_PROVIDERS":"providers@alunacare.com","REACT_APP_CURRENT_COMMIT_SHA1":"testid"};

@@ -1,0 +1,26 @@
+{
+  "groupId": "events",
+  "groupName": "Events",
+  "groupElements": [
+    {
+      "axes": ["yMedSymptomScore"],
+      "elementName": "SS",
+      "elementDescription": "Symptoms Score."
+    },
+    {
+      "axes": ["yMedController"],
+      "elementName": "Controller",
+      "elementDescription": "The controller medicines used."
+    },
+    {
+      "axes": ["yMedController"],
+      "elementName": "Rescue",
+      "elementDescription": "The rescue medicines used."
+    },
+    {
+      "axes": ["yMedController"],
+      "elementName": "Other",
+      "elementDescription": "Other medicines or activities."
+    }
+  ]
+}

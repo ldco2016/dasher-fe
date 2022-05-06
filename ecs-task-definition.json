@@ -1,0 +1,22 @@
+{
+  "family": "aluna-dashboard",
+  "executionRoleArn": "arn:aws:iam::016066275479:role/ecsTaskExecutionRole",
+  "networkMode": "awsvpc",
+  "containerDefinitions": [
+    {
+      "name": "aluna-dashboard",
+      "image": "016066275479.dkr.ecr.us-west-2.amazonaws.com/aluna-dashboard:latest",
+      "portMappings": [
+        {
+          "containerPort": 3000,
+          "hostPort": 3000,
+          "protocol": "tcp"
+        }
+      ],
+      "essential": true
+    }
+  ],
+  "requiresCompatibilities": ["FARGATE"],
+  "cpu": "512",
+  "memory": "1024"
+}
